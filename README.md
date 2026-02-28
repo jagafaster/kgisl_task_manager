@@ -37,28 +37,6 @@ No authentication is included as per the task requirement. The focus is purely o
 
 ---
 
-## Project Folder Structure
-task-manager/
-│
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-│ ├── package.json
-│ └── .env
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── TaskForm.js
-│ │ │ └── TaskList.js
-│ │ ├── App.js
-│ │ ├── App.css
-│ │ └── index.js
-│ └── package.json
-│
-└── README.md
-
 ## Backend Setup (Run Instructions)
 ### Step 1: Navigate to backend folder
 cd backend
